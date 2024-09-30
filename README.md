@@ -36,13 +36,13 @@ Ao refatorar o projeto de forma modular e dividindo responsabilidades entre gere
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/nerigleston/to-do-list-flutter.git
    ```
 
 2. **Navegue até o diretório do projeto**:
 
    ```bash
-   cd nome-do-repositorio
+   cd to-do-list-flutter
    ```
 
 3. **Instale as dependências**:
@@ -62,8 +62,3 @@ Ao refatorar o projeto de forma modular e dividindo responsabilidades entre gere
    ```
 
 Agora, o aplicativo estará rodando e você poderá visualizar a lista de tarefas, adicionar novas tarefas, marcá-las como concluídas ou excluí-las.
-
-## Dependências
-
-- **Flutter**: Certifique-se de que você tenha o Flutter instalado na versão mais recente. Consulte a [documentação oficial](https://flutter.dev/docs/get-started/install) para informações de instalação.
-- **Material Design**: Utilizamos o pacote de Material Design embutido no Flutter para construir a interface.
